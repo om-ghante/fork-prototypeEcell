@@ -32,10 +32,12 @@ export default function RootLayout({
 
         <script
           src="https://widget.galichat.com/gali-embeded.min.js"
-          chat-hash="tn3nk3znddsbgc3ksvuph5"
+          chat-hash="ogdt9ld90vatu9srltukjg"
           defer
         ></script>
       </body>
     </html>
   );
 }
+
+    
