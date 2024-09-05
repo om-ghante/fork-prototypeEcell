@@ -1,4 +1,2 @@
 # prototypeEcell
 
-
-With Gali Chat
